@@ -1,7 +1,7 @@
 {
   "github": "https://github.com/ryanestuort-byte/FarmTech-Fase6",
-  "youtube": null,
-  "youtube_status": "Aguardando definição do canal pelo usuário",
+  "youtube": "https://youtu.be/CMW7rIuIbwk",
+  "youtube_status": "Publicado como não listado",
   "drive_general_access": "anyone/reader; allowFileDiscovery=false",
   "group_name": "FarmTech-Fase6 (provisório)",
   "integrantes": [
@@ -14,5 +14,7 @@
       "rm": "569379"
     }
   ],
-  "notebook_filename": "RyanPabloCorreaDePaula_rm570587_MatheusKauaDaSilva_rm569379_pbl_fase6.ipynb"
+  "notebook_filename": "RyanPabloCorreaDePaula_rm570587_MatheusKauaDaSilva_rm569379_pbl_fase6.ipynb",
+  "youtube_channel": "Ryan pablo Corrêa de paula",
+  "youtube_channel_id": "UCt9ULAHIK2IsR2a0ST9vJ_w"
 }

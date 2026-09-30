@@ -15,7 +15,7 @@
 | Nomes completos e dois RMs | Inseridos no README e no notebook: Ryan RM570587; Matheus RM569379 |
 | GitHub público | https://github.com/ryanestuort-byte/FarmTech-Fase6 |
 | Nome do grupo | FarmTech-Fase6 provisório; aguardando nome definitivo |
-| YouTube não listado | MP4 pronto; aguardando definição do canal pelo usuário (Studio abriu um canal de terceiro) |
+| YouTube não listado | Publicado no canal Ryan pablo Corrêa de paula: https://youtu.be/CMW7rIuIbwk; visibilidade Não listado confirmada no Studio |
 | Envio no portal e prazo | Ainda não enviado |
 
 O notebook foi efetivamente executado neste computador, não em um runtime do Colab; a conexão do Drive está implementada para a execução no Colab.

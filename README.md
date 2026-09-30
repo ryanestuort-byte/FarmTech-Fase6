@@ -14,7 +14,7 @@ uma CNN treinada do zero, usando 80 imagens com divisão 64/8/8.
 - [Repositório público](https://github.com/ryanestuort-byte/FarmTech-Fase6).
 - [Pacote completo com MP4 e pesos](https://drive.google.com/file/d/1eT7xmirNTZlm0X9MKgiIwQRU0ZjpX9rr/view).
 - [Vídeo no Google Drive](https://drive.google.com/file/d/1CXJrr1BpVFiWmPnZxRPSy6EhmGCK7fTj/view?usp=drivesdk).
-- **YouTube não listado:** PENDENTE_PUBLICACAO.
+- [Vídeo não listado no YouTube](https://youtu.be/CMW7rIuIbwk).
 - [Notebook no Google Drive](https://drive.google.com/file/d/1IjO5qWzAbtS81eiQyZv1wemqTSKf7OBh/view?usp=drivesdk) — disponível para leitura pelo link.
 - [Dataset organizado no Google Drive](https://drive.google.com/drive/folders/1bnHR90RHoHjcWVDK6VBWQyYtN-2e3O1Y).
 - [Abrir no Colab](https://colab.research.google.com/drive/1IjO5qWzAbtS81eiQyZv1wemqTSKf7OBh) — notebook com saídas reais da execução local; conexão do Drive implementada para reexecução no Colab.
@@ -53,7 +53,7 @@ de IA e devem ser compreendidos e revisados pelos integrantes.
 
 ## Finalização para a FIAP
 
-Confirmar o nome definitivo do grupo e concluir a publicação no YouTube não listado após definir o canal. Conferir o status da rotulação em `docs/STATUS_ENTREGA.md`.
+Confirmar o nome definitivo do grupo e enviar o link do GitHub pelo portal da FIAP. Conferir o status da rotulação em `docs/STATUS_ENTREGA.md`.
 Salvar todas as saídas do notebook e não realizar commits após o prazo de entrega.
 
 As opções “Ir Além” são extras e não estão incluídas nas Entregas 1 e 2 deste projeto.
