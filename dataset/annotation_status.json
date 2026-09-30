@@ -1,0 +1,9 @@
+{
+  "source": "Make Sense AI export",
+  "export_sha256": "00059b951ecb757c820b787e76316ab87e45910af9b3738db62beac3dadf620a",
+  "images": 80,
+  "class_order": [
+    "bicicleta",
+    "gato"
+  ]
+}

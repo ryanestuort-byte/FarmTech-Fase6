@@ -1,0 +1,10 @@
+{
+  "model": "yolo_60ep",
+  "split": "test",
+  "precision": 0.31297767648991415,
+  "recall": 0.26666666666666666,
+  "map50": 0.2811788426430497,
+  "map50_95": 0.13066765742725928,
+  "inference_forward_ms": 11.100083589553833,
+  "annotation_source": "Make Sense AI"
+}

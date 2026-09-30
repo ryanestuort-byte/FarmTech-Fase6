@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.DS_Store
+.ipynb_checkpoints/
+*.cache
+*.part
+*.tfevents.*
+video/*.mp4
+results/train/*/weights/last.pt
+dataset/baseline_coco/
+
+# O vídeo é publicado no YouTube; manter o MP4 no pacote local.
+# Os checkpoints best.pt e best_cnn.pt ficam no repositório para demonstração.

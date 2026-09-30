@@ -1,0 +1,10 @@
+{
+  "model": "yolo_padrao",
+  "split": "test",
+  "precision": 0.4405001104176409,
+  "recall": 0.4396076594935321,
+  "map50": 0.5198029036400151,
+  "map50_95": 0.2980360482154103,
+  "inference_forward_ms": 20.826756954193115,
+  "annotation_source": "Make Sense AI"
+}

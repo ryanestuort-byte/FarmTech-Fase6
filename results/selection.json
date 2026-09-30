@@ -1,0 +1,4 @@
+{
+  "selected_model": "yolo_60ep",
+  "criterion": "validation mAP50-95"
+}

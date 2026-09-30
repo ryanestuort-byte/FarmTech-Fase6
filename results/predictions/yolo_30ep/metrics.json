@@ -1,0 +1,21 @@
+{
+  "model": "yolo_30ep",
+  "accuracy": 0.0,
+  "error_rate": 1.0,
+  "macro_f1": 0.0,
+  "abstentions": 8,
+  "latency_median_ms": 12.272771040443331,
+  "n_images": 8,
+  "confusion_matrix": [
+    [
+      0,
+      0,
+      4
+    ],
+    [
+      0,
+      0,
+      4
+    ]
+  ]
+}

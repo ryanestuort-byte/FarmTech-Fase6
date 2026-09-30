@@ -1,0 +1,21 @@
+{
+  "model": "yolo_padrao",
+  "accuracy": 0.75,
+  "error_rate": 0.25,
+  "macro_f1": 0.8571428571428571,
+  "abstentions": 2,
+  "latency_median_ms": 11.984478973317891,
+  "n_images": 8,
+  "confusion_matrix": [
+    [
+      3,
+      0,
+      1
+    ],
+    [
+      0,
+      3,
+      1
+    ]
+  ]
+}

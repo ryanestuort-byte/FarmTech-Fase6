@@ -1,0 +1,11 @@
+{
+  "model": "yolo_60ep",
+  "epochs": 60,
+  "train_seconds": 260.67101633292623,
+  "weights": "/Users/ryanpablo/Documents/Codex/2026-09-30/files-pasted-by-the-user-introdu/outputs/FarmTech_Fase6/results/train/yolo_60ep/weights/best.pt",
+  "device": "cpu",
+  "imgsz": 224,
+  "seed": 42,
+  "repo_commit": "915bbf294bb74c859f0b41f1c23bc395014ea679",
+  "best_epoch": 44
+}

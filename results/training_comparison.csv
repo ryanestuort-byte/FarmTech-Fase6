@@ -1,0 +1,5 @@
+model,epochs,train_seconds,weights,device,imgsz,seed,repo_commit,best_epoch
+yolo_30ep,30,140.3448680830188,/Users/ryanpablo/Documents/Codex/2026-09-30/files-pasted-by-the-user-introdu/outputs/FarmTech_Fase6/results/train/yolo_30ep/weights/best.pt,cpu,224.0,42.0,915bbf294bb74c859f0b41f1c23bc395014ea679,29.0
+yolo_60ep,60,260.67101633292623,/Users/ryanpablo/Documents/Codex/2026-09-30/files-pasted-by-the-user-introdu/outputs/FarmTech_Fase6/results/train/yolo_60ep/weights/best.pt,cpu,224.0,42.0,915bbf294bb74c859f0b41f1c23bc395014ea679,44.0
+yolo_padrao,0,0.0,/Users/ryanpablo/Documents/Codex/2026-09-30/files-pasted-by-the-user-introdu/work/yolov5/yolov5n.pt,cpu,224.0,,,
+cnn_zero,60,72.16266062494833,,cpu,,,,23.0

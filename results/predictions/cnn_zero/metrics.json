@@ -1,0 +1,21 @@
+{
+  "model": "cnn_zero",
+  "accuracy": 1.0,
+  "error_rate": 0.0,
+  "macro_f1": 1.0,
+  "abstentions": 0,
+  "latency_median_ms": 5.700811976566911,
+  "n_images": 8,
+  "confusion_matrix": [
+    [
+      4,
+      0,
+      0
+    ],
+    [
+      0,
+      4,
+      0
+    ]
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "duration_seconds": 266.01,
+  "resolution": [
+    1280,
+    720
+  ],
+  "fps": 24,
+  "language": "pt-BR",
+  "narration": "Voz sintética Luciana (macOS)",
+  "evidence": "Imagens e métricas produzidas pela execução do notebook",
+  "selected_model": "yolo_60ep",
+  "make_sense_completed": true,
+  "youtube_status": "Pendente publicação não listada"
+}

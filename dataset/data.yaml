@@ -1,0 +1,8 @@
+names:
+- bicicleta
+- gato
+nc: 2
+path: /Users/ryanpablo/Documents/Codex/2026-09-30/files-pasted-by-the-user-introdu/outputs/FarmTech_Fase6/dataset
+test: images/test
+train: images/train
+val: images/val

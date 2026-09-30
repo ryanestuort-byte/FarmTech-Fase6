@@ -1,0 +1,7 @@
+{
+  "model": "cnn_zero",
+  "epochs": 60,
+  "train_seconds": 72.16266062494833,
+  "device": "cpu",
+  "best_epoch": 23
+}
