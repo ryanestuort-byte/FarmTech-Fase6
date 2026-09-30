@@ -3,5 +3,16 @@
   "youtube": null,
   "youtube_status": "Aguardando definição do canal pelo usuário",
   "drive_general_access": "anyone/reader; allowFileDiscovery=false",
-  "group_name": "FarmTech-Fase6 (provisório)"
+  "group_name": "FarmTech-Fase6 (provisório)",
+  "integrantes": [
+    {
+      "nome": "RYAN PABLO CORREA DE PAULA",
+      "rm": "570587"
+    },
+    {
+      "nome": "MATHEUS KAUÃ DA SILVA",
+      "rm": "569379"
+    }
+  ],
+  "notebook_filename": "RyanPabloCorreaDePaula_rm570587_MatheusKauaDaSilva_rm569379_pbl_fase6.ipynb"
 }

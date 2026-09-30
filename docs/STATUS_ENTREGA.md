@@ -12,7 +12,7 @@
 | Vídeo MP4 até 5 minutos | Criado com narração em português e evidências reais |
 | Google Drive | 80 imagens e 80 TXT organizados em train/val/test; notebook e vídeo enviados |
 | Acesso de correção ao Drive/Colab | Conferido: qualquer pessoa com o link, leitor; permissão confirmada por API |
-| Nomes completos e dois RMs | Aguardando usuário |
+| Nomes completos e dois RMs | Inseridos no README e no notebook: Ryan RM570587; Matheus RM569379 |
 | GitHub público | https://github.com/ryanestuort-byte/FarmTech-Fase6 |
 | Nome do grupo | FarmTech-Fase6 provisório; aguardando nome definitivo |
 | YouTube não listado | MP4 pronto; aguardando definição do canal pelo usuário (Studio abriu um canal de terceiro) |
