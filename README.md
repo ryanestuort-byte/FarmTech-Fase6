@@ -5,7 +5,7 @@ Comparamos YOLOv5 customizada com 30/60 épocas, YOLOv5 padrão pré-treinada e
 uma CNN treinada do zero, usando 80 imagens com divisão 64/8/8.
 
 **Integrantes:** RYAN PABLO CORREA DE PAULA (RM570587) e MATHEUS KAUÃ DA SILVA (RM569379).  
-**Nome do grupo:** FarmTech-Fase6 (provisório; aguardando confirmação dos integrantes).
+**Nome do grupo:** FarmTech-Fase6.
 
 ## Acesse a solução
 
@@ -53,7 +53,7 @@ de IA e devem ser compreendidos e revisados pelos integrantes.
 
 ## Finalização para a FIAP
 
-Confirmar o nome definitivo do grupo e enviar o link do GitHub pelo portal da FIAP. Conferir o status da rotulação em `docs/STATUS_ENTREGA.md`.
+Enviar o link do GitHub pelo portal da FIAP. Conferir o status da rotulação em `docs/STATUS_ENTREGA.md`.
 Salvar todas as saídas do notebook e não realizar commits após o prazo de entrega.
 
 As opções “Ir Além” são extras e não estão incluídas nas Entregas 1 e 2 deste projeto.
